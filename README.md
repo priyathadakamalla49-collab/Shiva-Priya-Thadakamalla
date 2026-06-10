@@ -1,6 +1,3 @@
-# Shiva-Priya-Thadakamalla
-
-
 # Hi, I'm Shiva Priya Thadakamalla 👋
 
 Aspiring Data Analyst and Data Scientist passionate about transforming data into actionable insights.
